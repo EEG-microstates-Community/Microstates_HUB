@@ -1,13 +1,9 @@
 (markdown_syntax)=
 # How to add content
 
-Here are the  contribution guidelines
-
-## Syntax
-
 Here is a brief overview of syntax that can be use to populate this website.
 
-Microstates HUB uses markdown, a simple and efficent syntay.
+Microstates HUB uses markdown, a simple and efficent markup language.
 You can check the [markdown guide](https://www.markdownguide.org/basic-syntax/) to get the basics of it.
 
 In addition, the website offers different extensions to create more specific content.
