@@ -1,3 +1,4 @@
+(markdown_syntax)=
 # How to add content
 
 Here are the  contribution guidelines
